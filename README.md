@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @programmermuda22
 - 👀 I’m interested in Javacsript
 - 🌱 I’m currently learning about Framework in Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some prjects
 - 📫 How to reach me ,you can find on my instagram
 
 <!---
